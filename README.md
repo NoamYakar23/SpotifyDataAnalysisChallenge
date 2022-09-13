@@ -4,7 +4,7 @@
 
 **The Task**
 
-Your task is to take the code given in the main.py file, and analyze the songs in your favorite spotify playlist, direct any questions you have to nyakar@asu.edu
+Your task is to take the code given in the main.py file, and analyze the songs in your favorite spotify playlist by creating and using the same tools we used in the Fundamentals of Data Science and Statistics Meeting!! Direct any questions you have to nyakar@asu.edu
 
 
 **Resources To Help You Succeed**
